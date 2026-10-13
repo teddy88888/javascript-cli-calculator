@@ -1,0 +1,19 @@
+{
+  "name": "interactive-calculator-cli",
+  "version": "1.0.0",
+  "description": "Interactive CLI calculator and result analyzer using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api.js && node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "cli",
+    "calculator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
